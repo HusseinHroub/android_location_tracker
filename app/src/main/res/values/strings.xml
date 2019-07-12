@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BetaWayTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_reader_maps">Map</string>
+</resources>
